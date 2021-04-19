@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Botcraft", "Botcraft\Botcraft.csproj", "{002754CB-D182-436F-9B1E-1E247BCAA329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{002754CB-D182-436F-9B1E-1E247BCAA329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002754CB-D182-436F-9B1E-1E247BCAA329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002754CB-D182-436F-9B1E-1E247BCAA329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002754CB-D182-436F-9B1E-1E247BCAA329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9814B533-9B4A-4AF5-90E8-11422FABA5E5}
+	EndGlobalSection
+EndGlobal
