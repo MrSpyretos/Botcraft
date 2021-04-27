@@ -3,10 +3,10 @@
 <img src="https://i.imgur.com/yg3BYh4.png" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="120">
 
-This repository is a template which you can use for your own Discord.NET bot.
+This repository is a mix of commands which you can use for your own Discord.NET bot.
 
 ## Config
-The template comes with a `appsettings.json` which can be used to provide the prefix and token of your bot.
+Create in the same directory as Program.cs a file named  `appsettings.json` which can be used to provide the prefix and token of your bot as seen below.
 
 
 ```
